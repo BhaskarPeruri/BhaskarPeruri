@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhaskarPeruri
 - 👀 I’m interested in Blockchain security
-- 🌱 I’m currently learning how to write better smart contracts using solidity
+- 🌱 I’m currently learning blockchain development and solidity 
 - 💞️ I’m looking to collaborate with the like-minded people
 - 📫 How to reach me ...
 
