@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @BhaskarPeruri
 - 👀 I’m interested in Blockchain security
 - 🌱 I’m currently learning blockchain development and solidity 
-- 💞️ I’m looking to collaborate with the like-minded people
+- 💞️ I’m looking to collaborate with the like-minded people and industry experts
 - 📫 How to reach me ...
+
 
 <!---
 BhaskarPeruri/BhaskarPeruri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
