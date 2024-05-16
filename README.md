@@ -2,7 +2,8 @@
 - 👀 I’m interested in Blockchain security
 - 🌱 I’m currently learning blockchain security 
 - 💞️ I’m looking to collaborate with the like-minded people and industry experts
-- 📫 How to reach me ...
+- 📫 You can reach me via
+- [Twitter](https://twitter.com/PeruriBhaskar)
 
 
 <!---
