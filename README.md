@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @BhaskarPeruri
-- 👀 I’m interested in Blockchain security
-- 🌱 I’m currently learning blockchain security 
+- 🌱 I’m Blockchain Security Enthusiastic
 - 💞️ I’m looking to collaborate with the like-minded people and industry experts
 - 📫 You can reach me via
-- [Twitter](https://twitter.com/PeruriBhaskar)
+- [Twitter](https://x.com/0xPSB)
 
 
 <!---
