@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhaskarPeruri
+- 👋 Hi, I’m Bhaskar
 - 🌱 I’m Blockchain Security Enthusiastic
 - 💞️ I’m looking to collaborate with the like-minded people and industry experts
 - 📫 You can reach me via
