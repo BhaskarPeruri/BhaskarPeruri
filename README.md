@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bhaskar
 - 🌱 I’m Blockchain Security Researcher and a Smart Contract Developer {Solidity, Move} with security focused.
-- 💞️ I’m looking to collaborate with the like-minded people and industry experts
 - 📫 You can reach me via
 
 
