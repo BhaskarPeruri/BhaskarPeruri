@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Bhaskar
 - 🌱 I’m Blockchain Security Researcher and a Smart Contract Developer {Solidity, Move} with security focused.
-- 📫 You can reach me via
-
-
-- [Twitter](https://x.com/0xPSB)
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/satya-bhaskar-b84521242/)
 
 <!---
 BhaskarPeruri/BhaskarPeruri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
