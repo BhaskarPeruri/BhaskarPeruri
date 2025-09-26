@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhaskar
-- 🌱 I’m Blockchain Security Researcher and Blockchain Developer {Solidity, Move} with security focused.
+- 🌱 I’m Blockchain Security Researcher and Blockchain Developer {Solidity, Move, Rust} with security focused.
 
 <!---
 BhaskarPeruri/BhaskarPeruri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
