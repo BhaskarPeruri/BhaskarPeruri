@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satya Bhaskar
-- 🌱 I’m Blockchain Security Researcher and Blockchain Developer {Solidity, Move, Rust🦀 
+- 🌱 I’m Blockchain Security Researcher and Blockchain Developer {Solidity, Move, Rust🦀} 
 - 🚩 Currently Exploring Canton Network and ZK
 <!---
 BhaskarPeruri/BhaskarPeruri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
